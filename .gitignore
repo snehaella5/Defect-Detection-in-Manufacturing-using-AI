@@ -1,0 +1,6 @@
+data/
+models/
+__pycache__/
+*.h5
+*.keras
+*.zip
